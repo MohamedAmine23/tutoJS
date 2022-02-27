@@ -1,0 +1,3 @@
+La différence réside dans le moment où l'événement est déclenché : 
+    onchange va se déclencher au moment où le champ perd le focus 
+    oninput va se déclencher directement dès que le valeur change (donc à chaque frappe du clavier).
